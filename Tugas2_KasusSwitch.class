@@ -1,0 +1,30 @@
+ ˛∫æ   ? =
+       java/lang/Object <init> ()V   java/util/Scanner	 
+ 
+   
+  java/lang/System in Ljava/io/InputStream;
+      (Ljava/io/InputStream;)V	 
+    out Ljava/io/PrintStream;  -Ketikkan sebuah huruf, akhiri dengan RETURN 
+
+       java/io/PrintStream print (Ljava/lang/String;)V
+      ! next ()Ljava/lang/String;
+ # $  % & ' java/lang/String charAt (I)C )  Yang anda ketik adalah a 
+ +  Yang anda ketik adalah u 
+ -  Yang anda ketik adalah e 
+ /  Yang anda ketik adalah i 
+ 1  Yang anda ketik adalah o 
+ 3 $ Yang anda ketik adalah huruf mati 
+  5 
+KasusSwitch Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable 
+SourceFile KasusSwitch.java ! 4           6        *∑ ±    7         	 8 9  6   Â     êª  Y≤ 	∑ M≤ ∂ ,∂ ∂ "<´     j      a   3   e   I   i   T   o   _   u   >≤ (∂ ß 7≤ *∂ ß ,≤ ,∂ ß !≤ .∂ ß ≤ 0∂ ß 
+≤ 2∂ ±    7   . 
+   
+ 
+ 
+     P  [  f  q  |  á  è  :     ˝ P   
+
+
+
+
+   ;    <

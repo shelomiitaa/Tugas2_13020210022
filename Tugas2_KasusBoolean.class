@@ -1,0 +1,16 @@
+Êþº¾   ? $
+       java/lang/Object <init> ()V	  	  
+ 
+  java/lang/System out Ljava/io/PrintStream;  true
+
+       java/io/PrintStream print (Ljava/lang/String;)V  false
+  salah
+  benar
+   KasusBoolean Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable 
+SourceFile KasusBoolean.java !                    *· ±            	        t     1<™ ²  
+¶ § 
+²  ¶ š ²  ¶ § 
+²  ¶ ±       "    
+    
+       (  0  !   	 ü     "    #

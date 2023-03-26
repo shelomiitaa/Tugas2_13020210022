@@ -1,0 +1,22 @@
+Êþº¾   ? F
+       java/lang/Object <init> ()V   java/util/Scanner	 
+ 
+   
+  java/lang/System in Ljava/io/InputStream;
+      (Ljava/io/InputStream;)V	 
+    out Ljava/io/PrintStream;  Contoh IF tiga kasus 
+
+       java/io/PrintStream print (Ljava/lang/String;)V  Temperatur (der. C) = 
+   ! " #  nextInt ()I   % & ' makeConcatWithConstants (I)Ljava/lang/String;  %  %  +  Tempair Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable 
+SourceFile Tempair.java BootstrapMethods 5
+ 6 7  8 & 9 $java/lang/invoke/StringConcatFactory ˜(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite; ; Wujud air beku 
+ = Wujud air cair 
+ ? Wujud air uap/gas 
+ InnerClasses  B %java/lang/invoke/MethodHandles$Lookup  D java/lang/invoke/MethodHandles Lookup ! *           ,        *· ±    -        	 . /  ,   ±     `»  Y² 	· M² ¶ ² ¶ ,¶  <œ ² º $  ¶ § /£ d£ ² º (  ¶ § d¤ ² º )  ¶ ±    -   . 
+   
+ 
+ 
+        $  3  >  M  S  _  0   
+ ý 3     1    2 3     4  : 4  < 4  > @   
+  A C E 

@@ -1,0 +1,17 @@
+Êþº¾   ? 1
+       java/lang/Object <init> ()V   java/util/Scanner	 
+ 
+   
+  java/lang/System in Ljava/io/InputStream;
+      (Ljava/io/InputStream;)V	 
+    out Ljava/io/PrintStream;  
+Nilai N >0 = 
+       java/io/PrintStream print (Ljava/lang/String;)V
+      !  nextInt ()I # Print i dengan ITERATE : 
+
+  % & '  println (I)V  ) PrintIterasi Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable 
+SourceFile PrintIterasi.java ! (           *        *· ±    +         	 , -  *   †     8»  Y² 	· N² ¶ -¶ <=² "¶ ² ¶ $  § 	„§ÿî±    +   * 
+   
+ 
+        "  )  .  1  7  .    þ "     /    0

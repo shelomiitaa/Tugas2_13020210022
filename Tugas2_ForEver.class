@@ -1,0 +1,11 @@
+Êþº¾   ? #
+       java/lang/Object <init> ()V	  	  
+ 
+  java/lang/System out Ljava/io/PrintStream;  &Program akan looping, akhiri dengan ^c
+       java/io/PrintStream  println (Ljava/lang/String;)V  Print satu baris.....
+
+     print    ForEver Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable 
+SourceFile ForEver.java !                    *· ±            	       8     ²  
+¶ ²  ¶ §ÿø       
+               !    "

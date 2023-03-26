@@ -1,0 +1,18 @@
+Êþº¾   ? F
+       java/lang/Object <init> ()V   java/util/Scanner	 
+ 
+   
+  java/lang/System in Ljava/io/InputStream;
+      (Ljava/io/InputStream;)V	 
+    out Ljava/io/PrintStream;  Contoh IF dua kasus 
+
+       java/io/PrintStream print (Ljava/lang/String;)V  Ketikkan suatu nilai integer :
+   ! " #  nextInt ()I   % & ' makeConcatWithConstants (I)Ljava/lang/String;
+  ) *   println  %  - If2 Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable 
+SourceFile If2.java BootstrapMethods 7
+ 8 9  : & ; $java/lang/invoke/StringConcatFactory ˜(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite; = Nilai a positif  ? Nilai a negatif  InnerClasses  B %java/lang/invoke/MethodHandles$Lookup  D java/lang/invoke/MethodHandles Lookup ! ,           .        *· ±    /         	 0 1  .   „     @»  Y² 	· M² ¶ ² ¶ ,¶  <› ² º $  ¶ (§ ² º +  ¶ (±    /   "     
+         $  3  ?  2   
+ ý 3   
+  3    4 5     6  < 6  > @   
+  A C E 

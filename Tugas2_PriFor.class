@@ -1,0 +1,17 @@
+Êþº¾   ? 5
+       java/lang/Object <init> ()V   java/util/Scanner	 
+ 
+   
+  java/lang/System in Ljava/io/InputStream;
+      (Ljava/io/InputStream;)V	 
+    out Ljava/io/PrintStream;  Baca N, print 1 s/d N 
+       java/io/PrintStream print (Ljava/lang/String;)V  N = 
+   ! " #  nextInt ()I
+  % & '  println (I)V ) Akhir program 
+
+  + &   - PriFor Code LineNumberTable main ([Ljava/lang/String;)V 
+StackMapTable 
+SourceFile 
+PriFor.java ! ,           .        *· ±    /         	 0 1  .   †     =»  Y² 	· N² ¶ ² ¶ -¶  =<£ ² ¶ $„§ÿñ² (¶ *±    /   & 	    
+         '  .  4  <  2   
+ þ "     3    4
